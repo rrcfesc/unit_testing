@@ -1,6 +1,10 @@
 # Tutorial
 Tutorial de TDD con Phpunit
 
+## Requerimientos:
+
+        -PHP 5.5>
+
 ## Container
 Deberás de compilar el container con el repositorio donde viene la maquina virtual en el branch de Php55
 ```
