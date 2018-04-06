@@ -2,7 +2,7 @@
 namespace Example\Dao;
 
 use Soluble\DbWrapper\Adapter\MysqliAdapter;
-use Soluble\DbWrapper;
+
 
 class UserDao
 {
