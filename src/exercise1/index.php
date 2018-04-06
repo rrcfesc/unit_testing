@@ -1,4 +1,9 @@
 <?php
+/**
+ * Este archivo es un ejemplo de una clase
+ * @author Ricardo Ruiz <rrcfesc@gmail.com>
+ * @version 1.0
+ */
 class example1{
     protected $foo;
 
@@ -32,3 +37,6 @@ echo "<br>\n";
 echo changeExample($obj);
 echo "<br>\n";
 echo $obj->getFoo();
+echo "<br>\n";
+
+echo "<a href='index2.php'>Ejemplo2</a>";
