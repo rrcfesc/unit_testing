@@ -20,5 +20,5 @@ la suma de los numero y la division entre 7, la assersion es para verificar que 
 alguien no seamos nosotros, otro desarrollador, hace un cambio, no haya un defecto
 
 ```
-$ ./phpunit --bootstrap index.php  RealTestCaseTest
+$ ./phpunit  RealTestCaseTest
 ```
